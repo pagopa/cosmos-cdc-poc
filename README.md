@@ -1,2 +1,2 @@
 # cosmos-cdc-poc
-Testing the change feed for cosmos in typescrip
+Testing the change feed for cosmos in typescript
